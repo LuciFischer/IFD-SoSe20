@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>SWOT Analyse</title>
+
+
+    <style>
+	
+	
+
+      h1{
+	  color: #828282;
+	  font-family: arial;
+      text-align: center; }
+		
+	  h2{
+		margin-bottom: 40px;
+       color: #828282;
+       font-family: arial;
+      text-align: center;
+      }
+	  
+      #bild{
+        width: 65%;
+		}
+		
+	a{
+	font-family: arial;
+	color: #828282;
+	font-size: 20px;
+	text-decoration: none;
+      }
+	  
+	 a:hover{
+	 color: #d6d6d6;
+	 }
+	  
+    </style>
+
+  </head>
+  
+  <body>
+    <div style="text-align: center;">
+    <h1>SWOT Analyse </h1>
+	<h2>Luci Fischer</h2>
+	
+    <img id="bild" src="./SWOT_Analyse.png" alt="Task0">
+	<br>
+	<p>
+	<a href="https://sftp.hs-furtwangen.de/~fischerl/RWD/">Landingpage Responsive Webdesign </a> </p>
+</div>
+  </body>
+</html>
