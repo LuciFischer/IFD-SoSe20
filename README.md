@@ -6,3 +6,4 @@
 3.2 [Beispiel 2](https://github.com/LuciFischer/IFD-WiSe20/blob/main/task02/media/intranet_srcreencast%20(1).mp4)
 4. [Konzeptentwurf](https://github.com/LuciFischer/IFD-WiSe20/blob/main/task02/2.2/KonzeptentwurfIntranet.pdf)
 5. [Prototype](https://xd.adobe.com/view/129dec08-b314-4743-97cb-b142a673667f-47ce/?fullscreen)
+6. [VUI Konzeptentwurf](https://github.com/LuciFischer/IFD-WiSe20/blob/main/task04/VUI.pdf)
