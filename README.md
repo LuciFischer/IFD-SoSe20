@@ -7,5 +7,5 @@
 4. [Konzeptentwurf](https://github.com/LuciFischer/IFD-WiSe20/blob/main/task02/2.2/KonzeptentwurfIntranet.pdf)
 5. [Prototype](https://xd.adobe.com/view/129dec08-b314-4743-97cb-b142a673667f-47ce/?fullscreen)
 6. [VUI Konzeptentwurf](https://lucifischer.github.io/IFD-WiSe20/task04/VUI_V2.pdf)
-7. [VUI Prototyp](https://sftp.hs-furtwangen.de/~fischerl/Screencast.mp4)
+7. [VUI Prototyp](https://sftp.hs-furtwangen.de/~fischerl/interface/)
 7.2 [VUI Screencast](https://sftp.hs-furtwangen.de/~fischerl/Screencast.mp4)
