@@ -9,3 +9,4 @@
 6. [VUI Konzeptentwurf](https://lucifischer.github.io/IFD-WiSe20/task04/VUI_V2.pdf)
 7. [VUI Prototyp](https://sftp.hs-furtwangen.de/~fischerl/interface/)
 7.2 [VUI Screencast](https://sftp.hs-furtwangen.de/~fischerl/Screencast.mp4)
+8. [VR Cardboard](https://lucifischer.github.io/IFD-WiSe20/task06/VR_documentation.pdf)
