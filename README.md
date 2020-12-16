@@ -11,4 +11,4 @@
 7.2 [VUI Screencast](https://sftp.hs-furtwangen.de/~fischerl/Screencast.mp4)
 8. [VR Cardboard](https://lucifischer.github.io/IFD-WiSe20/task06/VR_documentation.pdf)
 9. [VR Konzept](https://lucifischer.github.io/IFD-WiSe20/task07/IFD-Aufgabe7-VR-Konzept.pdf)
-9.1 [VR Video](https://lucifischer.github.io/IFD-WiSe20/task07/https://drive.google.com/file/d/1CEIZLjL8hplm_FtYh03avJ4eG6cRBRJD/view)
+9.1 [VR Video](https://drive.google.com/file/d/1CEIZLjL8hplm_FtYh03avJ4eG6cRBRJD/view)
