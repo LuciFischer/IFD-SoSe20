@@ -12,4 +12,4 @@
 6. [VR Cardboard](https://lucifischer.github.io/IFD-WiSe20/task06/VR_documentation.pdf)
 7. [VR Konzept](https://lucifischer.github.io/IFD-WiSe20/task07/IFD-Aufgabe7-VR-Konzept.pdf)
 7.1 [VR Konzept](https://drive.google.com/file/d/1CEIZLjL8hplm_FtYh03avJ4eG6cRBRJD/view)
-8. [YouTube 360] (https://www.youtube.com/watch?v=PMrPGeQ6YkQ&feature=youtu.be&ab_channel=AnastasiaHirt)
+8. [YouTube 360](https://www.youtube.com/watch?v=PMrPGeQ6YkQ&feature=youtu.be&ab_channel=AnastasiaHirt)
